@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1688819325 source:c:\users\iwona\downloads\01\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<bits/stdc++.h>
+
